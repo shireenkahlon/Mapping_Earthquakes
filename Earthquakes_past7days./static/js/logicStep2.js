@@ -19,14 +19,12 @@ let baseMaps = {
     'Streets': streets,
     'Satellite': satelliteStreets
 };
-
 // Create the map object with a center and zoom level.
 let map = L.map('mapid', {
     center: [39.5, -98.5],
     zoom: 3,
     layers: [streets]
 });
-
 // Pass our map layers into our layers control and add the layers control to the map.
 L.control.layers(baseMaps).addTo(map);
 // Grabbing our GeoJSON data.
