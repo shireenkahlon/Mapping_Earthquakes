@@ -6,6 +6,6 @@ The purpose of this project is to create a data visualization on earthquakes in 
 
 
 The images below show the different tile layers and overlays of the map:
-![streets](https://github.com/shireenkahlon/Mapping_Earthquakes/blob/main/screenshots/streets_screenshot.png)
-![satellite](https://github.com/shireenkahlon/Mapping_Earthquakes/blob/main/screenshots/satellite_screenshot.png)
-![dark](https://github.com/shireenkahlon/Mapping_Earthquakes/blob/main/screenshots/dark_screenshot.png)
+![streets](https://github.com/shireenkahlon/Mapping_Earthquakes/blob/main/Screenshots/screenshot_streets.png)
+![satellite](https://github.com/shireenkahlon/Mapping_Earthquakes/blob/main/Screenshots/screenshot_satellite.png)
+![dark](https://github.com/shireenkahlon/Mapping_Earthquakes/blob/main/Screenshots/screenshot_dark.png)
